@@ -1,0 +1,3 @@
+Model,Mean 4-Fold CV NRMSE [%],Approximate CV Training Time [s]
+Optimized DNN,6.8383287986119585,11.63497729995288
+Polynomial Regression (degree 1),7.7891548077265425,0.22279289993457496

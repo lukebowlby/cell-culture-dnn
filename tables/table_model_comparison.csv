@@ -1,0 +1,3 @@
+Model,Mean 4-Fold CV NRMSE,Approximate CV Training Time [s]
+Optimized Fully Connected Neural Network,0.385355140058426,1421.8992919002194
+Polynomial Regression (degree 3),0.4373338383366032,0.9458124001976103

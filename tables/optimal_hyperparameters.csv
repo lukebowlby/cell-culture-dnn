@@ -1,0 +1,2 @@
+hidden_layers,activation,learning_rate,batch_size,weight_decay,search_epochs,final_epochs,number_of_search_sets
+"(128, 64, 32)",relu,0.001,256,1e-05,60,100,16

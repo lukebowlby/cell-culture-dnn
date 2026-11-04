@@ -1,0 +1,6 @@
+Hyperparameter,Optimal Value
+hidden_layers,"(8, 16, 32, 16, 8, 4)"
+activation,tanh
+learning_rate,0.01
+batch_size,1024
+weight_decay,0.01
