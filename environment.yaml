@@ -1,1 +1,15 @@
-This file should contain information about your conda environment.
+
+name: chg4360c-fall2026
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.14.7
+  - pip
+  - pip:
+      - matplotlib==3.11.0
+      - numpy==2.5.2
+      - pandas==3.0.5
+      - scikit-learn==1.9.0
+      - torch==2.13.0
